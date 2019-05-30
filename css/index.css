@@ -9,53 +9,53 @@ a{
 body{
     background-color:#FAFAFA;
 }
-.ce{
+.ceE{
     position:fixed;
     right:34px;
     top:190px;
     width:27px;
     height:201px;
 }
-.ce ul{
+.ceE ul{
     width:27px;
     height:201px;
     border: 1px solid #f5f5f5;
     background:#fff;
 }
-.ce ul li{
+.ceE ul li{
     width: 25px;
     height: 39px;
     line-height:39px;
     text-align:center;
     border-top: 1px solid #f5f5f5;
 }
-.ce ul li i:hover{
+.ceE ul li i:hover{
     color:#ff6700;
 }
-.ce ul li a{
+.ceE ul li a{
     display:block;
     width:100%;
     height:100%;
 }
-.ce ul li i{
+.ceE ul li i{
     font-size:20px;
     color:#757575
 }
-.ce .fh{
+.ceE .fh{
     display: block;
     border: 1px solid #f5f5f5;
 }
-.bt{
+.bG{
     width:100%;
     height:40px;
     background-color:#333;
 }
-.bt .top{
+.bG .top{
     width:1226px;
     height:40px;
     margin:0 auto;
 }
-.bt .top .top2{
+.bG .top .top2{
     width:auto;
     height:40px;
     float:left;
@@ -63,14 +63,14 @@ body{
     color:#424242;
     line-height:40px;
 }
-.bt .top .top2 a{
+.bG .top .top2 a{
     color:#b0b0b0;
     display:inline-block;
 }
-.bt .top .top2 a:hover{
+.bG .top .top2 a:hover{
     color:#fff;
 }
-.bt .top .shopping{
+.bG .top .shopping{
     width:120px;
     height:40px;
     float:right;
@@ -79,24 +79,24 @@ body{
     line-height:40px;
     background-color:#414141;
 }
-.bt .top .shopping a:hover{
+.bG .top .shopping a:hover{
     color: #ff6700;
     background-color:#fff;
 }
-.bt .top .shopping a{
+.bG .top .shopping a{
     width:120px;
     height:40px;
     display: block;
     color:#b0b0b0;
     display:inline-block;
 }
-.bt .top .shopping a .icon-cart{
+.bG .top .shopping a .icon-cart{
     margin-right: 4px;
     font-size: 20px;
     line-height: 20px;
     vertical-align: -3px;
 }
-.bt .top .login{
+.bG .top .login{
     width:auto;
     height:40px;
     float:right;
@@ -105,10 +105,10 @@ body{
     line-height:40px;
     margin-right:26px;
 }
-.bt .top .login a:hover{
+.bG .top .login a:hover{
     color:#fff;
 }
-.bt .top .login a{
+.bG .top .login a{
     color:#b0b0b0;
     display:inline-block;
 }
@@ -133,7 +133,7 @@ body{
     float:right;
     margin:0 auto;
     margin-right:90px;
-    line-height:100px;
+    line-height:50px;
 }
 .logo .logo1 .cen span{
     margin-right:20px;
@@ -141,7 +141,6 @@ body{
 .logo .logo1 .cen span:hover{
     color:#ff6700;  
 }
-
 .logo .logo1 .sou{
     width:297px;
     height:50px;
@@ -180,6 +179,7 @@ body{
 .logo .logo1 .sou button:hover{
     background-color:#ff6700;
     color:#fff;
+    border:0;
 }
 .logo .logo1 .sou button .icon-fangdajing{
     font-size:24px;
@@ -294,7 +294,7 @@ body{
 }
 .back .dak .left li{
     width:234px;    
-    height:42px;
+    height:45px;
     padding-left:20px;
     box-sizing:border-box;
     line-height:45px;
@@ -373,56 +373,56 @@ body{
 .back .changk2{
     margin-top:26px;
 }
-.jd{
+.jdW{
     width:1226px;
     height:auto;
     margin:0 auto;
 }
-.jd .top{
+.jdW .top{
     width:100%;
     height:58px;
 }
-.jd .top .left{
+.jdW .top .left{
     width:auto;
     height:58px;
     line-height:58px;
     float:left;
     font-size:20px;
 }
-.jd .top .right{
+.jdW .top .right{
     width:auto;
     height:58px;
     line-height:58px;   
     float:right; 
 }
-.jd .top .right span{
+.jdW .top .right span{
     margin-left:10px; 
     cursor: pointer;
 }
-.jd .top .right span:hover{
+.jdW .top .right span:hover{
     color:#ff6700;
     border-bottom: 2px solid #ff6700;
     padding-bottom:2px;
 }
-.jd .bottom{
+.jdW .bottom{
     width:1226px;
     height:614px;
 }
-.jd .bottom .left1 .top2 .lt:hover{
+.jdW .bottom .left1 .top2 .lt:hover{
     transform:translateY(-5px);
     transition: 0.5s;
     box-shadow: 0 10px  20px 1px #ccc;
 }
-.jd .bottom .left1{
+.jdW .bottom .left1{
     width:234px;
     height:614px;
     float:left;
 }
-.jd .bottom .left1 .top1{
+.jdW .bottom .left1 .top1{
     width:234px;
     height:300px;
 }
-.jd .bottom .right1 .lvk{
+.jdW .bottom .right1 .lvk{
     width:64px;
     height:20px;
     background:#83C44E;
@@ -432,141 +432,157 @@ body{
     text-align:center;
     font-size: 12px;
 }
-.jd .bottom .left1 .top1:hover{
+.jdW .bottom .left1 .top1:hover{
     transform:translateY(-5px);
     transition: 0.5s;
     box-shadow: 0 10px  20px 1px #ccc;
 }
-.jd .bottom .left1 .bottom2:hover{
+.jdW .bottom .left1 .bottom2:hover{
     transform:translateY(-5px);
     transition: 0.5s;
     box-shadow: 0 10px  20px 1px #ccc;
 }
-.jd .bottom .left1 .top1.a{
+.jdW .bottom .left1 .top1.a{
     width:234px;
     height:300px;
 }
-.jd .bottom .left1 .bottom2{
+.jdW .bottom .left1 .bottom2{
     width:234px;
     height:300px;
     margin-top:14px;
 }
-.jd .bottom .right1{
+.jdW .bottom .right1{
     width:992px;
     height:614px;
     float:right;
 }
-.jd .bottom .right1 .box2{
+.jdW .bottom .right1 .box2{
     width:234px;
     height:300px;
     float:left;
     background-color:#fff;
     overflow: hidden;
 }
-.jd .bottom .right1 .box2 .pingyi{
+.jdW .bottom .right1 .box2 .pingyi{
     width:174px;
-    height:59px;
-    padding:8px 30px 0 30px;
+    height:150px;
+    padding:0px 25px 0 35px;
     background-color:#ff6700;
     cursor: pointer;
 }
-.jd .bottom .right1 .box2 .pingyi span{
-    margin-bottom: 5px;
+.jdW .bottom .right1 .box2 .pingyi span{
+    margin-bottom: 15px;
     color: #fff;
     font-size:12px;
-    text-align:center;
+   
+    float: left;
 }
-.jd .bottom .right1 .box2:hover .pingyi{
-    transform:translateY(-59px);
+.jdW .bottom .right1 .box2 .pingyi p{
+    margin-bottom: 15px;
+    color: #fff;
+    font-size:12px;
+   margin-bottom: 1rem;
+    float: left;
+}
+/* .jdW .bottom .right1 .box2 .pingyi .dd{
+    font-size: 12px;
+    color:rgba(255,255,255,0.6);
+    float: left;
+    display: block;
+    overflow: hidden;
+    
+} */
+.jdW .bottom .right1 .box2:hover .pingyi{
+    transform:translateY(-80px);
     transition:0.5s;
 }
-.jd .bottom .right1 .box2:hover{
+.jdW .bottom .right1 .box2:hover{
     transform:translateY(-5px);
     transition:0.5s;
     box-shadow: 0 10px  20px 1px #ccc;
 }
-.jd .bottom .right1 .box3{
+.jdW .bottom .right1 .box3{
     margin-bottom:14px;
     margin-left:14px;
 }
-.jd .bottom .right1 .box4{
+.jdW .bottom .right1 .box4{
     margin-left:14px;
 }
-.jd .bottom .right1 .box5{
+.jdW .bottom .right1 .box5{
     width:234px;
     height:143px;
 }
-.jd .bottom .right1 a{
+.jdW .bottom .right1 a{
     display:block;
     width:234px;
     height:300px;
     overflow:hidden;
     text-decoration:none;
 }
-.jd .bottom .right1 a img{
+.jdW .bottom .right1 a img{
     display:block;
     width:150px;
     height:150px;
     margin:18px auto 0;
 }
-.jd .bottom .right1 a p{
+.jdW .bottom .right1 a p{
     text-align:center;
     font-size: 14px;
     margin-top:16px;
     color:#000;
 }
-.jd .bottom .right1 a pre{
+.jdW .bottom .right1 a pre{
     text-align:center;
     height:15px;
     font-size: 12px;
     margin-top:4px;
     color:#B0B0B0;
 }
-.jd .bottom .right1 a div{
+.jdW .bottom .right1 a div{
     text-align:center;
     font-size: 14px;
     margin-top:9px;
     color:#ff6700;
 }
-.jd .bottom .right1 a div s{
+.jdW .bottom .right1 a div s{
     color:#B3B3B3;
 }
-.jd .bottom .right1 .a1{
+.jdW .bottom .right1 .a1{
     display: block;
     width:80px;
     height:80px;
     float:right;
     margin:21px 20px 0 0 ;
 }
-.jd .bottom .right1 .a1 img{
+.jdW .bottom .right1 .a1 img{
     display:block;
     width:80px;
     height:80px;
     margin:0;
 }
-.jd .bottom .right1 div p{
+.jdW .bottom .right1 div p{
     padding:44px 0 0 30px ;
     font-size:14px;
 }
-.jd .bottom .right1 div pre{
+.jdW .bottom .right1 div pre{
     padding:5px 0 0 30px ;
     font-size:14px; 
     color:#ff6700;
 }
-.jd .bottom .right1 .a1 .gen{
+.jdW .bottom .right1 .a1 .gen{
     margin-right:30px;
 }
-.jd .bottom .right1 .a2{
+.jdW .bottom .right1 .a2{
     display: block;
     width:80px;
     height:80px;
     float:right;
     margin:21px 20px 0 0 ;
 }
-.jd .bottom .right1 a .tutu3{
+.jdW .bottom .right1 a .tutu3{
     margin:38px auto 0;
 }
-.jd .bottom .right1 a .tutu4{
+.jdW .bottom .right1 a .tutu4{
     margin:0 auto ;
 }
 .changk1{
@@ -590,66 +606,66 @@ body{
     width:234px;
     height:614px;
 }
-.wn1{
+.wn{
     width:1226px;
     height:358px;
     margin:0 auto;
 }
-.wn1 .top{
+.wn .top{
     width:100%;
     height:58px;
 }
-.wn1 .top .wn1{
+.wn .top .wn1{
     width:auto;
     height:58px;
     font-size:20px;
     line-height:58px;
     float:left;
 }
-.wn1 .bottom{
+.wn .bottom{
     width:1226px;
     height:300px;
 }
-.wn1 .bottom .wn2{
+.wn .bottom .wn2{
     width:234px;
     height:300px;
     background-color:#fff;
     float:left;
     margin-right:14px;
 }
-.wn1 .bottom li:hover{
+.wn .bottom li:hover{
     transform:translateY(-5px);
     transition: 1s;
     box-shadow: 0 10px  20px 1px #ccc;
 }
-.wn1 .bottom .wn3{
+.wn .bottom .wn3{
     margin-right:0;
 }
-.wn1 .bottom .wn2 a{
+.wn .bottom .wn2 a{
     display:block;
     width:auto;
     height:140px;
     margin: 0 auto;
     text-decoration:none;
 }
-.wn1 .bottom .wn2 a img{
+.wn .bottom .wn2 a img{
     display:block;
     height:140px;
     margin: 40px auto 0;
 }
-.wn1 .bottom .wn2 a p{
+.wn .bottom .wn2 a p{
     font-size:14px;
     text-align:center;
     margin-top:20px;
     color:#000;
 }
-.wn1 .bottom .wn2 pre{
+.wn .bottom .wn2 pre{
     color:#ff6700;
     font-size:15px;
     text-align:center;
     margin-top:45px;
 }
-.wn1 .bottom .wn2 div{
+.wn .bottom .wn2 div{
     font-size:13px;
     text-align:center;
     margin-top:35px;
@@ -763,6 +779,7 @@ body{
     top:50%;
     text-align:center;
     line-height:48px;
+    margin-top:-24px;
 }
 .rong .xia .si .sige .zuo:hover{
     background-color:rgba(0,0,0,0.5);
@@ -777,6 +794,7 @@ body{
     right: 0;
     text-align:center;
     line-height:48px;
+    margin-top:-24px;
 }
 .rong .xia .si .sige .you:hover{
     background-color:rgba(0,0,0,0.5);
@@ -917,27 +935,31 @@ body{
 .shi .xia .si .kuai p:hover{
     color: #ff6700;
 }
- .st{
+.shi .xia .si .kuai a:hover .bf{
+    background-color:#FF6700;
+    border-radius: 50%;
+}
+ .s{
     width:100%;
     height:272px;
     background-color:#fff;
     margin-top:60px;
 }
-.st .st1{
+.s .st1{
     width:1226px;
     height:272px;
     margin:0 auto;
 }
-.st .st1 .top{
+.s .st1 .top{
     width:1226px;
     height:80px;
     margin:0 auto;
 }
-.st .st1 .top .icontu{
+.s .st1 .top .icontu{
     font-size:26px;
     line-height:25px;
 }
-.st .st1 .top li{
+.s .st1 .top li{
     float:left;
     width:19.8%;
     height:25px;
@@ -946,43 +968,43 @@ body{
     font-size: 16px;
     text-align: center;
 }
-.st .st1 .top li i{
+.s .st1 .top li i{
     margin-right:6px;
     vertical-align: -4px;
 }
-.st .st1 .top li a{
+.s .st1 .top li a{
     color:#616161;
 }
 
-.st .st1 .top a:hover{
+.s .st1 .top a:hover{
     color:#ff6700;
 }
-.st .st1 .bottom{
+.s .st1 .bottom{
     width:1226px;
     height:192px;
     border-top:1px solid #e0e0e0;
 }
-.st .st1 .bottom dl{
+.s .st1 .bottom dl{
     float: left;
     width: 160px;
     height: 112px;
     margin: 0;
 }
-.st .st1 .bottom dl dt{
+.s .st1 .bottom dl dt{
     margin: 30px 0 26px 0;
     font-size: 14px;
     line-height: 1.25;
     color:#424242;
 }
-.st .st1 .bottom dl a{
+.s .st1 .bottom dl a{
     margin: 10px 0 0;
     font-size: 12px;
     color:#757575;
 }
-.st .st1 .bottom dl dd a:hover{
+.s .st1 .bottom dl dd a:hover{
     color:#ff6700;
 }
-.st .st1 .bottom .bz2{
+.s .st1 .bottom .bz2{
     float: right;
     width: 251px;
     height: 112px;
@@ -990,91 +1012,91 @@ body{
     text-align: center;
     color: #616161;
 }
-.st .st1 .bottom .bz2{
+.s .st1 .bottom .bz2{
     margin: 40px 0 5px;
     font-size: 22px;
     line-height: 1;
     color: #ff6700;
 }
-.st .st1 .bottom .bz3{
+.s .st1 .bottom .bz3{
     margin: 10px 0 16px;
     font-size: 12px;
     color:#424242;
 }
-.st .st1 .bottom .bz4{
+.s .st1 .bottom .bz4{
     width:120px;
     height:30px;
     margin:0 auto;
     border:1px solid #ff6700;
 }
-.st .st1 .bottom a{
+.s .st1 .bottom a{
     display:block;
     background: #fff;
     color: #ff6700;
     font-size:12px;
 }
-.st .st1 .bottom .bz4 a{
+.s .st1 .bottom .bz4 a{
     line-height: 30px;
     display:block; 
     width:100%;
     height:100%;
 }
-.st .st1 .bottom .bz4 a:hover{
+.s .st1 .bottom .bz4 a:hover{
     color: #fff;
     background-color: #ff6700;;
 }
-.bot{
+.bot1{
     width:100%;
     height:232px;
     background-color:#FAFAFA;
 }
-.bot .top{
+.bot1 .top{
     width:1226px;
     height:91px;
     margin:30px auto 0;
 }
-.bot .top .logo{
+.bot1 .top .logo{
     width:55px;
     height:55px;
     float:left;
     background-image:url(../img/10.1.png);
     background-repeat: no-repeat;
 }
-.bot .top .right{
+.bot1 .top .right{
     float:right;
     width:1159px;
     height:19px;
     font-size:12px;
 }
-.bot .top .right a{
+.bot1 .top .right a{
     color:#757575;
 }
-.bot .top .right a:hover{
+.bot1 .top .right a:hover{
     color:#ff6700;
 }
-.bot .top .right2{
+.bot1 .top .right2{
     float:right;
     width:1159px;
     height:72px;
     font-size:12px;
 }
-.bot .top .right2 a{
+.bot1 .top .right2 a{
     color:#b0b0b0;
 }
-.bot .top .right2 p{
+.bot1 .top .right2 p{
     color:#b0b0b0;
 }
-.bot .top .right2 a:hover{
+.bot1 .top .right2 a:hover{
     color:#ff6700;
 }
-.bot .top .right3{
+.bot1 .top .right3{
     float:right;
     width:1159px;
     height:28px;
     font-size:12px;
     /* margin:4px; */
 }
-.bot .right4{
+.bot1 .right4{
     clear: both;
     width: 267px;
     height: 60px;
